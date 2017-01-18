@@ -1,8 +1,15 @@
-h2   {
+
+h1 {
   color: #369;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 150%;
+  font-size: 250%;
 }
+h2, h3, h4 {
+  color: #444;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+}
+
 
 .selected {
   background-color: #CFD8DC !important;
@@ -16,6 +23,7 @@ h2   {
 }
 .heroes li {
   cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
   position: relative;
   left: 0;
   background-color: #EEE;
