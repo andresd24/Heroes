@@ -8,9 +8,7 @@ import { HeroDetailComponent } from './hero-detail.component';
   imports:
       [
         BrowserModule,
-        FormsModule,
-
-
+        FormsModule
       ],
   declarations:
       [
